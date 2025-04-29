@@ -107,4 +107,18 @@ These guided:
 
 ---
 
+I'm always available to discuss, collaborate, and connect. Feel free to reach out through my Portfolio or LinkedIn.
+
+<p align="center">
+    <a href="https://alerdo-ballabani.co.uk/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-blue?style=for-the-badge" alt="Portfolio">
+    </a>
+    <a href="https://www.linkedin.com/in/alerdo-ballabani-450a85283/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-blue?style=for-the-badge" alt="LinkedIn">
+    </a>
+</p>
+
+---
+
+Feel free to connect!
 
