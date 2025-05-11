@@ -12,14 +12,16 @@ Each function could only be queried once every few days, simulating real-world s
 
 Each function reflected a specific industrial or scientific setting:
 
-- **Function 1:** 2D – *Radiation/Contamination Source Detection*
-- **Function 2:** 2D – *Noisy Machine Learning Simulator*
-- **Function 3:** 3D – *Drug Discovery Optimisation*
-- **Function 4:** 4D – *Fast but Inaccurate Business Model*
-- **Function 5:** 4D – *Chemical Reaction Yield*
-- **Function 6:** 5D – *Cake Recipe (Multi-Objective Composite)*
-- **Function 7:** 6D – *Hyperparameter Tuning for ML Models*
-- **Function 8:** 8D – *High-Dimensional Black-Box Search*
+
+- [**Function 1:** 2D – *Radiation/Contamination Source Detection*](https://github.com/Alerdo/BlackBox-Bayesian_Optimisation/blob/master/initial_data/0.0%20notebooks/f1_optimisation.ipynb)
+- [**Function 2:** 2D – *Noisy Machine Learning Simulator*](https://github.com/Alerdo/BlackBox-Bayesian_Optimisation/blob/master/initial_data/0.0%20notebooks/f2_optimisation.ipynb)
+- [**Function 3:** 3D – *Drug Discovery Optimisation*](https://github.com/Alerdo/BlackBox-Bayesian_Optimisation/blob/master/initial_data/0.0%20notebooks/f3_optimisation.ipynb)
+- [**Function 4:** 4D – *Fast but Inaccurate Business Model*](https://github.com/Alerdo/BlackBox-Bayesian_Optimisation/blob/master/initial_data/0.0%20notebooks/f4_optimisation.ipynb)
+- [**Function 5:** 4D – *Chemical Reaction Yield*](https://github.com/Alerdo/BlackBox-Bayesian_Optimisation/blob/master/initial_data/0.0%20notebooks/f5_optimisation.ipynb)
+- [**Function 6:** 5D – *Cake Recipe (Multi-Objective Composite)*](https://github.com/Alerdo/BlackBox-Bayesian_Optimisation/blob/master/initial_data/0.0%20notebooks/f6_optimisation.ipynb)
+- [**Function 7:** 6D – *Hyperparameter Tuning for ML Models*](https://github.com/Alerdo/BlackBox-Bayesian_Optimisation/blob/master/initial_data/0.0%20notebooks/f7_optimisation.ipynb)
+- [**Function 8:** 8D – *High-Dimensional Black-Box Search*](https://github.com/Alerdo/BlackBox-Bayesian_Optimisation/blob/master/initial_data/0.0%20notebooks/f8_optimisation.ipynb)
+
 
 Initial datasets were provided in `.npy` format and used to seed initial model fitting.
 
